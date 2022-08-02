@@ -1,8 +1,7 @@
 # Tackle It
-A project management web app that allows users to collaborate on projects. 
+A project management web app that provides a platform for users to collaborate on projects. 
 
 ## Highlights:
-- Provides a platform for users to collaborate on projects
 - Users can view & create projects, filter projects base on category/ownership, and leave comments 
 - Used React (hooks, router, etc.) for front-end
 - Used Firebase to implemented database, authentication & file uploads
