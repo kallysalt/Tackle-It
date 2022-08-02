@@ -5,7 +5,6 @@ A project management website that allows users to collaborate on projects, chat,
 - Implemented database, authentication & file uploads with Firebase
 - Used React (hooks, router, context, etc.) for front-end
 
-![](./snapshots/signup.png)
 
 ![](./snapshots/login.png)
 
