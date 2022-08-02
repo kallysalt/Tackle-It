@@ -7,7 +7,7 @@ import formatDistanceToNow from 'date-fns/formatDistanceToNow'
 
 export default function ProjectComments({project}) {
 
-    const [updateDocument, response] = useFirestore('projects')
+    const {updateDocument, response} = useFirestore('projects')
     const {user} = useAuthContext()
     const [newComment, setNewComment] = useState('')
 
