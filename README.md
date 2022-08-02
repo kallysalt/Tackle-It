@@ -2,10 +2,9 @@
 A project management web app that allows users to collaborate on projects. 
 
 ## Highlights:
-- Provides a platform for users to collabrate and communicate on projects
-- Users can create projects, filter projects base on category/ownership, view projects details, and leave comments 
-- Used React (hooks, router, context, etc.) for front-end
-- Implemented database, authentication & file uploads with Firebase and Firestore
+- Provides a platform for users to collaborate on projects
+- Users can view & create projects, filter projects base on category/ownership, and leave comments 
+- Used React (hooks, router, etc.) for front-end, implemented database, authentication & file uploads with Firebase
 
 ![](./snapshots/sign-up.png)
 
