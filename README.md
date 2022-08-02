@@ -1,8 +1,8 @@
 # Tackle It
-A project management website that allows users to collaborate on projects, chat, and assign each other tasks.
+An aesthetic project management website that allows users to collaborate on projects 
 
 ## Highlights:
-- 
+- Users can create projects, assign each other tasks, filter projects base on category/ownership, view project summary & due date, and leave comments 
 - Used React (hooks, router, context, etc.) for front-end
 - Implemented database, authentication & file uploads with Firebase and Firestore
 
