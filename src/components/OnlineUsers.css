@@ -11,7 +11,8 @@
     margin-bottom: 40px;
     padding-bottom: 10px;
     border-bottom: 1px solid #eee;
-    font-size: 1.2em;
+    font-size: 1.1em;
+    margin-right: 15px;
 }
 .user-list .user-list-item {
     display: flex;

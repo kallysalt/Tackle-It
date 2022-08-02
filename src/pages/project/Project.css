@@ -20,6 +20,10 @@
     line-height: 1.8em;
     font-size: 0.8em;
 }
+.project-summary .created-by {
+    font-size: 0.8em;
+    color: var(--text-color);
+}
 .project-summary h4 {
     color: var(--text-color);
     font-size: 0.8em;
@@ -40,6 +44,7 @@
 .project-comments textarea {
     min-height: 40px;
     font-size: 1.4em;
+    margin-bottom: 15px;
 }
 .project-comments h4 {
     color: var(--heading-color);

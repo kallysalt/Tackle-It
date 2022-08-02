@@ -18,7 +18,7 @@ export default function ProjectSummary({project}) {
         <div>
             <div className='project-summary'>
                 <h2 className='page-title'>{project.name}</h2>
-                <p>By {project.createdBy.displayName}</p>
+                <p className='created-by'>By {project.createdBy.displayName}</p>
                 <p className='due-date'>Project due by {project.dueDate.toDate().toDateString()}</p>
                 <p className='details'>{project.details}</p>
                 <h4>Project assigned to:</h4>
