@@ -8,6 +8,7 @@
     background-color: #fff;
     padding: 30px;
     border-radius: 4px;
+    margin-top: 100px;
 }
 .project-summary .due-date {
     margin: 10px 0;
@@ -37,6 +38,10 @@
 }
 .project-summary + .btn {
     margin-top: 20px;
+}
+
+.project-comments {
+    margin-top: 100px;
 }
 .project-comments label {
     margin-bottom: 0px;
