@@ -1,5 +1,5 @@
 # Tackle It
-An aesthetic project management website that allows users to collaborate on projects 
+A project management web app that allows users to collaborate on projects. 
 
 ## Highlights:
 - Users can create projects, assign each other tasks, filter projects base on category/ownership, view project summary & due date, and leave comments 
